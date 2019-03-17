@@ -3,8 +3,8 @@
 // @version      0.0.9
 // @description  Adds desktop notifications for https://hangouts.google.com
 // @author       Victor Holz
-// @downloadURL  https://raw.githubusercontent.com/vicholz/userscripts/master/Hangouts%20Web%20Desktop%20Notifications.user.js
-// @updateURL    https://raw.githubusercontent.com/vicholz/userscripts/master/Hangouts%20Web%20Desktop%20Notifications.user.js
+// @downloadURL  https://github.com/vicholz/userscripts/raw/master/Hangouts%20Web%20Desktop%20Notifications.user.js
+// @updateURL    https://github.com/vicholz/userscripts/raw/master/Hangouts%20Web%20Desktop%20Notifications.user.js
 // @match        https://hangouts.google.com/*
 // @grant        GM_notification
 // @grant        window.focus
