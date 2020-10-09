@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         FacebookLiveProducerTweaks
-// @version      0.1
+// @version      0.2
 // @description  Various Facebook Live Producer Tweaks
 // @author       Victor Holz
 // @include      /^.*?facebook.com\/live\/producer\/.*?\/.*
