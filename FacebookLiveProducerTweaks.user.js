@@ -4,8 +4,8 @@
 // @description  Various Facebook Live Producer Tweaks
 // @author       Victor Holz
 // @include      /^.*?facebook.com\/live\/producer\/.*?\/.*
-// @downloadURL  https://github.com/vicholz/userscripts/blob/master/FacebookLiveProducerTweaks.user.js
-// @updateURL    https://github.com/vicholz/userscripts/blob/master/FacebookLiveProducerTweaks.user.js
+// @downloadURL  https://github.com/vicholz/userscripts/raw/master/FacebookLiveProducerTweaks.user.js
+// @updateURL    https://github.com/vicholz/userscripts/raw/master/FacebookLiveProducerTweaks.user.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
