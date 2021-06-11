@@ -3,8 +3,8 @@
 // @version      0.1
 // @description  Use 'ESC' button to hide/show Meet controls for cleaner video when trying to capture in OBS.
 // @author       Victor Holz
-// @downloadURL  https://github.com/vicholz/userscripts/raw/master/MeetControlToggle.user.js
-// @updateURL    https://github.com/vicholz/userscripts/raw/master/MeetControlToggle.user.js
+// @downloadURL  https://github.com/vicholz/userscripts/raw/master/MeetControlsToggle.user.js
+// @updateURL    https://github.com/vicholz/userscripts/raw/master/MeetControlsToggle.user.js
 // @match        https://meet.google.com/*
 // @icon         https://www.google.com/s2/favicons?domain=google.com
 // @grant        none
