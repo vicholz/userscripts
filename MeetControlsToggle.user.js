@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Meet Control Toggle
+// @name         Meet Controls Toggle
 // @version      0.1
 // @description  Use 'ESC' button to hide/show Meet controls for cleaner video when trying to capture in OBS.
 // @author       Victor Holz
