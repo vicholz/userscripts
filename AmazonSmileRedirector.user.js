@@ -8,7 +8,7 @@
 // @match        https://www.amazon.com/*
 // @icon         https://www.google.com/s2/favicons?domain=amazon.com
 // @grant        none
-// @run-at document-start
+// @run-at       document-start
 // @noframes
 // ==/UserScript==
 
